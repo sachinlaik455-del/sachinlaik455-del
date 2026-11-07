@@ -48,3 +48,16 @@ B.Tech — Computer Science & Engineering (AI & ML), 2nd Year
 
 - GitHub: [@sachinlaik455-del](https://github.com/sachinlaik455-del)
 - Open to learning opportunities, project collaboration and AI/ML internships
+
+---
+
+## Thanks for Visiting
+
+I'm at the beginning of my engineering journey, and this profile is where I will keep building — one project, one concept and one commit at a time.
+
+If you're a recruiter, mentor or fellow student and something here interests you, I'd genuinely love to connect. I'm open to AI/ML internships, learning opportunities and project collaboration.
+
+**Let's build something meaningful.**
+
+— Sachin Laik
+B.Tech CSE (AI & ML), Quantum University, Roorkee
